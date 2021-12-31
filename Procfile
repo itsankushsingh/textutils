@@ -1,2 +1,2 @@
-web: gunicorn textutils.wsgi --log-file -
+web: gunicorn textutils.wsgi --log-file
 
